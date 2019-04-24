@@ -1,6 +1,6 @@
 package com.CoreJava;
 
-public class Program1{
+public class HelloWorld{
 
 	public static void main(String[] args)
 	{
